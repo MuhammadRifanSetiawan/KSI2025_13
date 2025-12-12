@@ -1,6 +1,7 @@
 <?php
-echo "Hello from Jenkins!";
-
-
+echo "Muhammad Agus Rizal";
+echo "M. Rifan Setiawan";
+echo "Nabila Eka Putri";
+echo "Nova Cahyani Ms";
 ?>
 
